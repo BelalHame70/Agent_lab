@@ -1,0 +1,145 @@
+{
+    "agent_id": "ag03",
+    "dataset_info": {
+        "rows": 13320,
+        "columns_count": 9
+    },
+    "numeric_columns": [
+        "bath",
+        "balcony",
+        "price"
+    ],
+    "categorical_columns": [
+        "area_type",
+        "availability",
+        "location",
+        "size",
+        "society",
+        "total_sqft"
+    ],
+    "columns": {
+        "area_type": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 4
+        },
+        "availability": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 81
+        },
+        "location": {
+            "dtype": "str",
+            "missing_values": 1,
+            "missing_percentage": 0.01,
+            "unique_values": 1305
+        },
+        "size": {
+            "dtype": "str",
+            "missing_values": 16,
+            "missing_percentage": 0.12,
+            "unique_values": 31
+        },
+        "society": {
+            "dtype": "str",
+            "missing_values": 5502,
+            "missing_percentage": 41.31,
+            "unique_values": 2688
+        },
+        "total_sqft": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 2117
+        },
+        "bath": {
+            "dtype": "float64",
+            "missing_values": 73,
+            "missing_percentage": 0.55,
+            "unique_values": 19,
+            "mean": 2.6926096474673513,
+            "min": 1.0,
+            "max": 40.0,
+            "std": 1.3414580781243859
+        },
+        "balcony": {
+            "dtype": "float64",
+            "missing_values": 609,
+            "missing_percentage": 4.57,
+            "unique_values": 4,
+            "mean": 1.5843757375501535,
+            "min": 0.0,
+            "max": 3.0,
+            "std": 0.8172634299202003
+        },
+        "price": {
+            "dtype": "float64",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 1994,
+            "mean": 112.5656265015015,
+            "min": 8.0,
+            "max": 3600.0,
+            "std": 148.97167376967403
+        }
+    },
+    "sample_rows": [
+        {
+            "area_type": "Super built-up  Area",
+            "availability": "19-Dec",
+            "location": "Electronic City Phase II",
+            "size": "2 BHK",
+            "society": "Coomee ",
+            "total_sqft": "1056",
+            "bath": 2.0,
+            "balcony": 1.0,
+            "price": 39.07
+        },
+        {
+            "area_type": "Plot  Area",
+            "availability": "Ready To Move",
+            "location": "Chikka Tirupathi",
+            "size": "4 Bedroom",
+            "society": "Theanmp",
+            "total_sqft": "2600",
+            "bath": 5.0,
+            "balcony": 3.0,
+            "price": 120.0
+        },
+        {
+            "area_type": "Built-up  Area",
+            "availability": "Ready To Move",
+            "location": "Uttarahalli",
+            "size": "3 BHK",
+            "society": "",
+            "total_sqft": "1440",
+            "bath": 2.0,
+            "balcony": 3.0,
+            "price": 62.0
+        },
+        {
+            "area_type": "Super built-up  Area",
+            "availability": "Ready To Move",
+            "location": "Lingadheeranahalli",
+            "size": "3 BHK",
+            "society": "Soiewre",
+            "total_sqft": "1521",
+            "bath": 3.0,
+            "balcony": 1.0,
+            "price": 95.0
+        },
+        {
+            "area_type": "Super built-up  Area",
+            "availability": "Ready To Move",
+            "location": "Kothanur",
+            "size": "2 BHK",
+            "society": "",
+            "total_sqft": "1200",
+            "bath": 2.0,
+            "balcony": 1.0,
+            "price": 51.0
+        }
+    ]
+}

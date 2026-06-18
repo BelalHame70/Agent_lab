@@ -1,0 +1,151 @@
+{
+    "agent_id": "sales",
+    "dataset_info": {
+        "rows": 9800,
+        "columns_count": 18
+    },
+    "numeric_columns": [
+        "Row ID",
+        "Postal Code",
+        "Sales"
+    ],
+    "categorical_columns": [
+        "Order ID",
+        "Order Date",
+        "Ship Date",
+        "Ship Mode",
+        "Customer ID",
+        "Customer Name",
+        "Segment",
+        "Country",
+        "City",
+        "State",
+        "Region",
+        "Product ID",
+        "Category",
+        "Sub-Category",
+        "Product Name"
+    ],
+    "columns": {
+        "Row ID": {
+            "dtype": "int64",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 9800,
+            "mean": 4900.5,
+            "min": 1.0,
+            "max": 9800.0,
+            "std": 2829.1606529145706
+        },
+        "Order ID": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 4922
+        },
+        "Order Date": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 1230
+        },
+        "Ship Date": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 1326
+        },
+        "Ship Mode": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 4
+        },
+        "Customer ID": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 793
+        },
+        "Customer Name": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 793
+        },
+        "Segment": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 3
+        },
+        "Country": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 1
+        },
+        "City": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 529
+        },
+        "State": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 49
+        },
+        "Postal Code": {
+            "dtype": "float64",
+            "missing_values": 11,
+            "missing_percentage": 0.11,
+            "unique_values": 626,
+            "mean": 55273.322402696904,
+            "min": 1040.0,
+            "max": 99301.0,
+            "std": 32041.223412812957
+        },
+        "Region": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 4
+        },
+        "Product ID": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 1861
+        },
+        "Category": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 3
+        },
+        "Sub-Category": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 17
+        },
+        "Product Name": {
+            "dtype": "str",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 1849
+        },
+        "Sales": {
+            "dtype": "float64",
+            "missing_values": 0,
+            "missing_percentage": 0.0,
+            "unique_values": 5757,
+            "mean": 230.76905945918367,
+            "min": 0.444,
+            "max": 22638.48,
+            "std": 626.6518748388042
+        }
+    }
+}

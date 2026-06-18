@@ -1,0 +1,479 @@
+{
+  "nav": {
+    "features": "Features",
+    "useCases": "Use Cases",
+    "howItWorks": "How It Works",
+    "signIn": "Sign In",
+    "getStarted": "Get Started",
+    "dashboard": "Dashboard",
+    "goToDashboard": "Go to Dashboard"
+  },
+  "hero": {
+    "title1": "Create Your Own AI Agent —",
+    "title2": "Deploy It",
+    "titleAccent": "Anywhere",
+    "subtitle": "Turn your business documents into intelligent AI agents. No coding required — train, deploy, and manage in minutes.",
+    "cta": "Create Your First Agent",
+    "goToDashboard": "Go to Dashboard",
+    "watchDemo": "Watch Demo",
+    "stats": {
+      "setupTime": {
+        "val": "5 min",
+        "label": "Agent setup time"
+      },
+      "languages": {
+        "val": "50+",
+        "label": "Languages supported"
+      },
+      "costReduce": {
+        "val": "80%",
+        "label": "Cost reduction"
+      },
+      "available": {
+        "val": "24/7",
+        "label": "Always available"
+      }
+    }
+  },
+  "features": {
+    "sectionTitle": "Features",
+    "sectionSubtitle": "Everything you need to build, deploy, and manage intelligent AI agents.",
+    "items": [
+      {
+        "tag": "Custom Agents",
+        "title": "Custom AI Agents",
+        "body": "Create specialized AI agents tailored to your specific business needs and use cases."
+      },
+      {
+        "tag": "Data Training",
+        "title": "Train with Your Own Data",
+        "body": "Upload PDF, TXT, CSV and other documents to train your AI agent with your knowledge base."
+      },
+      {
+        "tag": "API Access",
+        "title": "One API per Agent",
+        "body": "Each AI agent gets its own dedicated API endpoint for seamless integration into any platform."
+      },
+      {
+        "tag": "Analytics",
+        "title": "Built-in Analytics",
+        "body": "Track performance, usage, and insights with a comprehensive analytics dashboard."
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionTitle": "How it works",
+    "sectionSubtitle": "Get your AI agent up and running in 5 simple steps.",
+    "steps": [
+      {
+        "num": "STEP 01",
+        "title": "Create an account",
+        "body": "Sign up for free and access your AgentLab dashboard in seconds."
+      },
+      {
+        "num": "STEP 02",
+        "title": "Create an AI agent",
+        "body": "Define your agent's purpose and configure its behavior and personality."
+      },
+      {
+        "num": "STEP 03",
+        "title": "Upload your data",
+        "body": "Train your agent with PDFs, TXT files, CSV and other documents."
+      },
+      {
+        "num": "STEP 04",
+        "title": "Generate agent API",
+        "body": "Get your unique API endpoint with authentication keys for integration."
+      },
+      {
+        "num": "STEP 05",
+        "title": "Deploy anywhere",
+        "body": "Integrate your AI agent into websites, apps, or any platform."
+      }
+    ]
+  },
+  "useCases": {
+    "sectionTitle": "Powerful AI agents\nfor every business need",
+    "items": [
+      {
+        "num": "01",
+        "title": "Customer Support Chatbots",
+        "body": "Automate customer inquiries with intelligent chatbots trained on your support documentation."
+      },
+      {
+        "num": "02",
+        "title": "Internal Company Assistants",
+        "body": "Help employees find information quickly with AI assistants trained on internal resources."
+      },
+      {
+        "num": "03",
+        "title": "Knowledge Base Bots",
+        "body": "Transform your documentation into an interactive AI that answers questions instantly."
+      },
+      {
+        "num": "04",
+        "title": "SaaS AI Integrations",
+        "body": "Add intelligent features to your SaaS product with custom-trained AI capabilities."
+      }
+    ]
+  },
+  "why": {
+    "sectionLabel": "Advantages",
+    "sectionTitle": "Why Choose AgentLab",
+    "items": [
+      {
+        "stat": "24/7",
+        "title": "Instant Responses",
+        "body": "Never miss a customer query with AI agents that work around the clock."
+      },
+      {
+        "stat": "80%",
+        "title": "Reduce Support Costs",
+        "body": "Automate repetitive tasks and scale support without hiring more staff."
+      },
+      {
+        "stat": "RAG",
+        "title": "Accurate, Data-Driven",
+        "body": "Leverage RAG technology to provide precise responses based on your data."
+      },
+      {
+        "stat": "REST",
+        "title": "Easy API Integration",
+        "body": "Simple REST API integration that works with any platform or framework."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Start Building Your AI Agent Today",
+    "subtitle": "Join hundreds of companies using AgentLab to automate customer support and deploy intelligent AI solutions.",
+    "primary": "Create Your First Agent",
+    "secondary": "View Docs"
+  },
+  "footer": {
+    "tagline": "Build, train, and deploy AI agents for any business use case.",
+    "newsletterTitle": "Stay updated",
+    "newsletterSub": "Subscribe for updates & exclusive content.",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "cookie": "Cookie Policy",
+    "copy": "© 2026 AgentLab. All rights reserved."
+  },
+  "auth": {
+    "taglines": {
+      "login": {
+        "title": "Welcome back.",
+        "sub": "Your AI agents are waiting. Sign in to manage, monitor, and deploy."
+      },
+      "register": {
+        "title": "Start building.",
+        "sub": "Create your account and launch your first AI agent in under 5 minutes."
+      },
+      "reset": {
+        "title": "No worries.",
+        "sub": "We'll send a reset link to your inbox. You'll be back in seconds."
+      }
+    },
+    "stats": [
+      { "val": "5 min", "label": "To first agent" },
+      { "val": "50+", "label": "Languages" },
+      { "val": "24/7", "label": "Uptime" }
+    ],
+    "login": {
+      "title": "Welcome Home",
+      "subtitle": "Sign in to your account to continue",
+      "signIn": "Sign In",
+      "signingIn": "Signing in…",
+      "forgotPassword": "Forgot password?",
+      "noAccount": "Don't have an account?",
+      "createOne": "Create one"
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Sign up to get started with your AI agents",
+      "create": "Create Account",
+      "creating": "Creating Account…",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "strength": {
+        "weak": "Weak",
+        "fair": "Fair",
+        "good": "Good",
+        "strong": "Strong"
+      },
+      "verify": {
+        "title": "Verify your email",
+        "subtitle": "We sent a verification link to",
+        "checkInbox": "Please check your inbox.",
+        "goToSignIn": "Go to Sign In",
+        "didntReceive": "Didn't receive it?",
+        "resend": "Resend"
+      },
+      "terms": {
+        "prefix": "By signing up, you agree to our",
+        "tos": "Terms of Service",
+        "and": "and",
+        "privacy": "Privacy Policy"
+      }
+    },
+    "reset": {
+      "title": "Reset Password",
+      "subtitle": "Enter your email and we'll send you a reset link",
+      "send": "Send Reset Link",
+      "sending": "Sending link…",
+      "backToSignIn": "Back to Sign In",
+      "sent": {
+        "title": "Check your inbox",
+        "subtitle": "We sent a password reset link to",
+        "tryAgain": "Didn't receive it? Try again",
+        "backToSignIn": "Back to Sign In"
+      }
+    },
+    "form": {
+      "namePlaceholder": "Full name",
+      "emailPlaceholder": "Email address",
+      "passwordPlaceholder": "Password",
+      "confirmPasswordPlaceholder": "Confirm Password",
+      "errors": {
+        "fillAll": "Please fill in all fields",
+        "invalidEmail": "Please enter a valid email address",
+        "passwordMin": "Password must be at least 6 characters",
+        "passwordMismatch": "Passwords do not match",
+        "nameRequired": "Please enter your name",
+        "emailRequired": "Please enter your email",
+        "loginFailed": "Login failed. Please try again.",
+        "registerFailed": "Registration failed. Please try again.",
+        "resetFailed": "Something went wrong. Please try again."
+      }
+    }
+  },
+  "sidebar": {
+    "newAgent": "New Agent",
+    "agents": "Agents",
+    "settings": "Settings",
+    "helpDocs": "Help & Docs",
+    "account": "Account",
+    "logout": "Log out",
+    "deleteAccount": "Delete Account",
+    "noAgents": "No agents yet"
+  },
+  "dashboard": {
+    "title": "What would you like to automate?",
+    "subtitle": "Create an intelligent agent trained on your content — then embed it anywhere with one line of code.",
+    "newAgent": "New Agent",
+    "noAgentsYet": "No agents yet",
+    "createFirst": "Create your first agent to get started",
+    "createAgent": "Create Agent"
+  },
+  "agent": {
+    "notTrained": "Not trained",
+    "training": "Training...",
+    "ready": "Ready",
+    "failed": "Failed",
+    "customerSupport": "Customer Support",
+    "knowledgeBase": "Knowledge Base",
+    "analysis": "Analysis"
+  },
+  "upload": {
+    "title": "Upload Training Data",
+    "subtitle": "Upload a file so your agent can learn from it.",
+    "dropzone": "Drop your file here or click to browse",
+    "fileLimit": "Any file type — Max 10MB each",
+    "uploading": "Uploading...",
+    "readyToTrain": "Ready to train",
+    "startTraining": "Start Training",
+    "startingTraining": "Starting training..."
+  },
+  "training": {
+    "title": "Training in progress",
+    "subtitle": "This page refreshes automatically every 5 seconds.",
+    "inProgress": "Training your agent...",
+    "takesTime": "This might take a few minutes.",
+    "step1": "Parsing document",
+    "step2": "Extracting knowledge",
+    "step3": "Building model"
+  },
+  "ready": {
+    "agentReady": "Agent is Ready",
+    "filesUploaded": "Files Uploaded",
+    "messagesSent": "Messages Sent",
+    "agentType": "Agent Type",
+    "widget": "Widget",
+    "widgetSubtitle": "Embed your agent anywhere",
+    "test": "Test",
+    "testSubtitle": "Chat with your agent"
+  },
+  "widget": {
+    "noWidget": "No widget yet",
+    "noWidgetSubtitle": "Create a widget to embed your agent anywhere",
+    "createWidget": "Create Widget",
+    "creating": "Creating...",
+    "active": "Widget Active",
+    "inactive": "Widget Inactive",
+    "embedCode": "Embed Code",
+    "publicKey": "Public Key",
+    "copied": "Copied!",
+    "howToUse": "How to add to your website",
+"step1Title": "Copy the embed code",
+"step1Desc": "Click the copy button next to the embed code at the top of this panel.",
+"step2Title": "Open your website's HTML file",
+"step2Desc": "Find the file that contains your website's HTML code — usually called index.html. Paste the code just before the </body> closing tag.",
+"step3Title": "That's it! 🎉",
+"step3Desc": "Save the file and open your website. You'll see a chat button appear in the bottom-right corner of every page.",
+"warningKey": "Never share your public key with anyone. It gives access to your agent."
+    
+  },
+  "test": {
+    "startConversation": "Start a conversation with your agent",
+    "placeholder": "Type a message...",
+    "send": "Send"
+  },
+  "modal": {
+    "title": "Create a new Agent",
+    "subtitle": "Give your agent a name and choose what it does.",
+    "namePlaceholder": "e.g. Support Bot",
+    "nameLabel": "Agent Name",
+    "typeLabel": "Agent Type",
+    "cancel": "Cancel",
+    "create": "Create Agent",
+    "creating": "Creating...",
+    "errorName": "Agent name is required",
+    "errorType": "Please select an agent type",
+    "csDescription": "Answer customer questions automatically",
+    "kbDescription": "Answer from your uploaded documents",
+    "anDescription": "Analyze data and generate insights"
+  },
+  
+  "delete": {
+    "title": "Delete Agent",
+    "message": "Are you sure you want to delete",
+    "cannot": "? This action cannot be undone.",
+    "cancel": "Cancel"
+  },
+
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your account settings and preferences",
+    "success": {
+      "nameUpdated": "Name updated successfully",
+      "verificationSent": "Verification link sent to new email",
+      "passwordUpdated": "Password updated successfully"
+    },
+    "sections": {
+      "profile": {
+        "title": "Profile",
+        "subtitle": "Update your personal information"
+      },
+      "password": {
+        "title": "Password & Security"
+      }
+    },
+    "profile": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "edit": "Edit",
+      "change": "Change",
+      "save": "Save",
+      "cancel": "Cancel",
+      "send": "Send",
+      "verificationNote": "A verification link will be sent to the new email"
+    },
+    "password": {
+      "change": "Change Password",
+      "current": "Current Password",
+      "new": "New Password",
+      "confirm": "Confirm Password",
+      "update": "Update Password",
+      "cancel": "Cancel",
+      "errors": {
+        "mismatch": "Passwords do not match",
+        "tooShort": "Password must be at least 6 characters"
+      }
+    },
+    "appearance": {
+      "title": "Appearance",
+      "dark": "Dark",
+      "light": "Light"
+    },
+    "language": {
+      "title": "Language"
+    },
+    "languages": {
+      "english": {
+        "label": "English",
+        "native": "English"
+      },
+      "arabic": {
+        "label": "Arabic",
+        "native": "العربية"
+      }
+    },
+    "dangerZone": {
+      "title": "Danger Zone",
+      "logout": "Logout",
+      "deleteAccount": "Delete Account"
+    },
+    "delete": {
+      "title": "Delete Account",
+      "warning": {
+        "prefix": "This action is",
+        "permanent": "permanent",
+        "suffix": "and cannot be undone. All your agents, files, and data will be deleted."
+      },
+      "confirmEmail": "Confirm your email",
+      "confirmPassword": "Confirm your password",
+      "cancel": "Cancel",
+      "confirm": "Delete Account",
+      "errors": {
+        "fillAll": "Please fill in all fields",
+        "emailMismatch": "Email doesn't match your account email",
+        "somethingWrong": "Something went wrong"
+      }
+    }
+    
+  },
+
+  "admin": {
+    "header": {
+      "title": "Admin Dashboard",
+      "subtitle": "Manage all user accounts",
+      "mockData": "Mock Data"
+    },
+    "stats": {
+      "totalUsers": "Total Users",
+      "totalAgents": "Total Agents",
+      "verifiedUsers": "Verified Users"
+    },
+    "search": {
+      "placeholder": "Search by name or email..."
+    },
+    "table": {
+      "name": "Name",
+      "email": "Email",
+      "agents": "Agents",
+      "verified": "Verified",
+      "role": "Role",
+      "action": "Action",
+      "noUsers": "No users found",
+      "deleteTooltip": "Delete user",
+      "roles": {
+        "admin": "Admin",
+        "user": "User"
+      }
+    },
+    "footer": {
+      "showing": "Showing",
+      "of": "of",
+      "users": "users"
+    },
+    "delete": {
+      "title": "Delete Account",
+      "warning": "This action cannot be undone",
+      "agents": "agent",
+      "willBeDeleted": "will be deleted",
+      "cancel": "Cancel",
+      "confirm": "Delete"
+    }
+  }
+}
